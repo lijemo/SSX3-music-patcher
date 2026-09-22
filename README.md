@@ -4,7 +4,7 @@ Put your own songs into **SSX 3** (GameCube) and keep the engine's real-time
 trick FX — the low-pass sweep and duck when you catch big air still apply,
 to your music.
 
-ffmpeg is only needed if your songs are not already WAV.
+ffmpeg is needed if your songs are not already WAV.
 
 Pure Python + numpy. No SuperSX, no vgmstream.
 
