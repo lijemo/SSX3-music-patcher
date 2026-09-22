@@ -264,9 +264,7 @@ ssx3/
   airborne the 7 kHz band drops 10–37 dB while the bass moves under 1.5 dB,
   in 0.75–2.75 s episodes. That is a real-time low-pass, not ducking.
 
-## Credits and licence
+## Credits
 
 Formats were reverse-engineered from the retail disc for this tool. No game
 data is included in this repository — you supply your own disc image.
-
-No licence is declared yet; add one if you want others to reuse the code.
